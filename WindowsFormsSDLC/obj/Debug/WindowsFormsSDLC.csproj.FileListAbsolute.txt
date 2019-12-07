@@ -1,0 +1,10 @@
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\bin\Debug\WindowsFormsSDLC.exe.config
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\bin\Debug\WindowsFormsSDLC.exe
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\bin\Debug\WindowsFormsSDLC.pdb
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.csprojAssemblyReference.cache
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.Form1.resources
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.Properties.Resources.resources
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.csproj.GenerateResource.cache
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.csproj.CoreCompileInputs.cache
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.exe
+C:\Users\Hi-XV\Desktop\IT\SDLC\WindowsFormsSDLC\WindowsFormsSDLC\obj\Debug\WindowsFormsSDLC.pdb
